@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<title>Silent Night</title>
+
+<head>
+<link rel="stylesheet" type="text/css" href="styles/styles.css"> 
+<body>
+<h1>Silent Night</h1>
+<h3>The Break-In</h3>
+ 
+</head>
+
+<img src="images/house.png">
+<p></p><li> <a href=">wait</a></li>
+<ul>
+<li> <a href="">go in the front</a></li>
+<li> <a href=""> wait</a></li>
+<li> <a href="">go in the back</a></li>
+
+</ul>
+
+</body>
+</html>
