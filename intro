@@ -10,13 +10,21 @@
 </head>
 
 <img src="images/house.png">
-<p></p><li> <a href=">wait</a></li>
-<ul>
-<li> <a href="">go in the front</a></li>
-<li> <a href=""> wait</a></li>
-<li> <a href="">go in the back</a></li>
 
+<p>You’re coming home from work as a professional cat video maker. You are deaf.
+You discover your window smashed in. Someone broke into your house. It is a serial killer.
+You go inside the house so you can contact the police with your teleprinter. 
+However, the intruder is still there and you don’t know that.
+You can enter from the back or the front
+</p> 
+
+<center>
+<ul>
+<li><a href="goInFront.html">go in the front</a></li>
+<li><a href="goInBack.html">go in the back</a></li>
+<li><a href="wait.html">wait</a></li>
 </ul>
+</center>
 
 </body>
 </html>
